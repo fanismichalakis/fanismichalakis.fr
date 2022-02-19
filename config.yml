@@ -1,0 +1,159 @@
+baseURL: "https://fanismichalakis.fr"
+title: Fanis Michalakis
+paginate: 5
+theme: PaperMod2.0
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
+                - name: Support Me
+                  url: support-me
+                  weight: 15
+
+    fr:
+        languageName: ":fr:"
+        languageAltTitle: French
+        weight: 2
+        title: Fanis Michalakis
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Rechercher
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags
+                  weight: 10
+                - name: Catégories
+                  url: categories
+                  weight: 10
+                - name: Me Soutenir
+                  url: me-soutenir
+                  weight: 15
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Fanis Michalakis Personal Website"
+    author: Fanis Michalakis
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+    # comments: false
+    images: ["genesis_block.png"]
+    assets:
+      favicon: "https://fanismichalakis.fr/favicon.ico"
+
+    homeInfoParams:
+        Title: "Fanis Michalakis"
+        Content: >
+            - Bitcoiner.
+
+            - Aspiring poet.
+
+            - Dealer of Bitcoin and Lightning knowledge.
+
+            - Almighty Engineer.
+
+            - Shitposter, sometimes.
+            
+            - Shadowy super coder at LN Markets.
+
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/FanisMichalakis"
+        - name: mastodon
+          url: "https://bitcoinhackers.org/web/@skyfan"
+        - name: github
+          url: "https://github.com/fanismichalakis/"
+        - name: youtube
+          url: "https://www.youtube.com/c/FanisMichalakis"
+        - name: tippin
+          url: "https://tippin.me/@FanisMichalakis"
+        - name: zebedee
+          url: "https://zbd.gg/skyfan"
+        - name: rss
+          url: "https://fanismichalakis.fr/index.xml"
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         # noClasses: false
+#         style: monokai
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
