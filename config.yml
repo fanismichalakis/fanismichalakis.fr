@@ -70,6 +70,8 @@ params:
     description: "Fanis Michalakis Personal Website"
     author: Fanis Michalakis
 
+    lightningAddress: "fanis@lnmarkets.com"
+
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: false
