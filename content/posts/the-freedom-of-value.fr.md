@@ -1,13 +1,13 @@
 ---
 title: "La Valeur Libérée - Comment le modèle de Valeur-pour-Valeur règle le problème de la monétisation de l'information"
-date: 2022-02-20T09:06:29+01:00
+date: 2022-02-20T17:00:00+01:00
 cover:
     image: "https://upload.wikimedia.org/wikipedia/commons/4/49/BrenoFernandesBusking.jpg"
     alt: "artiste de rue"
     caption: "Image par Gonzalez85. CC BY-SA 4.0."
     relative: false
 paybuttonlink: "https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-busking&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD"
-draft: true
+draft: false
 ---
 
 `Ceci est la traduction en français du texte de {{<newtabref href="https://twitter.com/dergigi" title="@dergigi">}} {{<newtabref href="https://dergigi.com/2021/12/30/the-freedom-of-value/" title="The Freedom of Value - How Value-for-Value Fixes the Monetization of Information">}}. Il est placé, à l'instar du texte original, sous licence CC BY-SA 4.0.`
