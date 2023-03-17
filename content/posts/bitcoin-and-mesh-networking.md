@@ -25,9 +25,7 @@ In my opinion, the best solution is a combination of the three. A Bitcoin-friend
 
 ## An example
 
-I always like to give this example when trying to explain how I see mesh networking and Bitcoin working together.
-
-{{< tweet user="Marketsbylili" id="1413185925128069121" >}}
+I always like to give this {{<newtabref href="https://nitter.net/Marketsbylili/1413185925128069121" title="example">}} when trying to explain how I see mesh networking and Bitcoin working together.
 
 It doesn't fully encapsulates what I have in mind, because in this example mesh is used ponctually to route a transaction to the closest node with internet access, whereas I envision a stable mesh network. But it's defintely a good place to start.
 

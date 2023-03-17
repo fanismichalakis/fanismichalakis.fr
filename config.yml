@@ -71,6 +71,7 @@ params:
     author: Fanis Michalakis
 
     lightningAddress: "fanis@lnmarkets.com"
+    blockDate: true
 
     defaultTheme: auto
     # disableThemeToggle: true
@@ -83,9 +84,15 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     # comments: false
-    images: ["genesis_block.png"]
+    images: ["https://fanismichalakis.fr/favicon-500x500.png"]
     assets:
-      favicon: "https://fanismichalakis.fr/favicon.ico"
+      favicon: "/favicon.ico"
+      favicon16x16: "/favicon-16x16.png"
+      favicon32x32: "/favicon-32x32.png"
+      apple_touch_icon: "/apple-touch-icon.png"
+      safari_pinned_tab: "/safari-pinned-tab.svg"
+      msapplication_TileColor: "#da532c"
+      # theme_color: 
 
     homeInfoParams:
         Title: "Fanis Michalakis"
@@ -101,7 +108,6 @@ params:
             - Shitposter, sometimes.
             
             - Shadowy super coder at LN Markets.
-
 
     socialIcons:
         - name: twitter

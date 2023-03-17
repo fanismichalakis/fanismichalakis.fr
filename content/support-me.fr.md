@@ -11,7 +11,7 @@ L'ensemble de ce contenu est gratuit et sous licence {{<newtabref href="https://
 
 Si vous aimez ce que je fais, vous pouvez me soutenir :
 - gratuitement en utilisant mon code de parrainage {{<newtabref href="https://relai.app/download" title="Relai">}} : REL16364
-- en envoyant quelques sats sur {{<newtabref href="https://btcpay.fanismichalakis.fr/apps/3PpzRW5WPa9NsB5b1Qhw1tRUVqYu/crowdfund" title="mon crowdfunding BTCPay">}} mon {{<newtabref href="https://tippin.me/@FanisMichalakis" title="Tippin">}} ou à l'une des adresses Lightning suivantes :
+- en envoyant quelques sats sur mon {{<newtabref href="https://tippin.me/@FanisMichalakis" title="Tippin">}} ou à l'une des adresses Lightning suivantes :
     - fanis@lnmarkets.com
     - skyfan@zbg.gg
 
