@@ -101,8 +101,6 @@ Therefore, instead of just a number, the *pheromone seed* is comprised of a few 
 
 ### Abusing the counter
 
-{{<qr>}}
-
 ## On fee setting
 
 

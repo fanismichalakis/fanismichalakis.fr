@@ -30,8 +30,6 @@ Remember Pick n Pay? This major South African retailer {{<newtabref href="https:
 
 10101 (it reads Ten-Ten-One), formerly known as Itchy Sats, just published their {{<newtabref href="https://10101.substack.com/p/10101-roadmap" title="roadmap">}} for their vision of self-custodial trading with {{<newtabref href="https://fanismichalakis.fr/posts/latest-strikes-13/#dlcs-on-lightning-on-mainnet" title="Lightning DLCs">}}. Itchy Sats already paved the way for self-custodial trading on-chain with DLCs, allowing users to engage in {{<newtabref href="https://en.wikipedia.org/wiki/Contract_for_difference" title="CFD">}} contracts without counterparty risk, a complete game-changer! No wonder they're now aiming at bringing those contracts to Lightning, which allows for instant settlement and facilitates contract renewing (essential for things such as {{<newtabref href="https://en.wikipedia.org/wiki/Perpetual_futures" title="perpetual futures">}}). Such contracts also enable the creation of synthetic fiat-denominated balances inside Lightning channels, which will be the first use case explored by the team.
 
-I can't say much yet, but we at {{<newtabref href="https://lnmarkets.com" title="LN Markets">}} are looking very closely into Lightning DLCs and what they enable. Maybe not just looking.
-
 ### More Lightning x Nostr
 
 Last week I couldn't refrain from talking about Lightning and Nostr synergies, and I don't really see why I should this week! On the Nostr front, Lightning news this week include:
